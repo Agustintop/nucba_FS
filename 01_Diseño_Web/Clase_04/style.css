@@ -1,7 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: powderblue; 
  }
- 
+
  h1 {
   font-size: 100px;
   color: lightcoral;
@@ -61,4 +67,8 @@ body {
  .dorado {
      background-color: gold;
      color: white;
+ }
+ 
+ .perritosalchicha {
+     background-color: saddlebrown;
  }
